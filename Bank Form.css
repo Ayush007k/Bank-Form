@@ -1,0 +1,68 @@
+#bank 
+{
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.table1
+{
+    border: 2px solid black;       
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+tr
+{
+    border: 2px solid black;
+}
+
+th
+{
+    border: 2px solid black;
+    padding-top: 50px;
+
+}
+
+td
+{
+    border: 2px solid black;
+    padding: 3px;
+}
+
+#Authorization
+{
+    border: 2px solid black;
+    padding: 3px;
+}
+
+#table2
+{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+#table3
+{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.head2
+{
+    padding-top: 0%;
+    padding: 3px;
+}
+
+.text-align
+{
+    float: right;
+}
+
+#Risk-Classification
+{
+    border: 2px solid black;
+    padding: 3px;
+}
